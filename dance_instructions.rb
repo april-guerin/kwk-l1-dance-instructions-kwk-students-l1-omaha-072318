@@ -8,7 +8,7 @@ end
 
 #skip-step
 def skip_step(left)
-  puts "lower"
-  puts "bounce"
-  puts "briefly"
+  puts "Lower"
+  puts "Bounce"
+  puts "Briefly"
 end

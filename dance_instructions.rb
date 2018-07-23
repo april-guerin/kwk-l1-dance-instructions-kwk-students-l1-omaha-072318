@@ -16,3 +16,7 @@ def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
 end
+
+def bob_the_reins
+  puts "Holding your arms out in front of you, straight and at chest level"
+  

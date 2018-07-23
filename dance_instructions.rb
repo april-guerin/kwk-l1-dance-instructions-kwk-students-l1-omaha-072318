@@ -7,7 +7,7 @@ def starting_stance
 end
 
 #skip-step
-def skip_step("left")
+def skip_step()
   puts "skip a step (lower, bounce, briefly)"
 end
 

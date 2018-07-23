@@ -12,4 +12,3 @@ def skip_step(left)
   puts "bounce"
   puts "briefly"
 end
-

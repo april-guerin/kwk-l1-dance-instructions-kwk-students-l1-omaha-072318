@@ -13,5 +13,5 @@ def skip_step(left)
 end
 
 def base_footwork
-  puts "lift and return their foot"
+  puts "Lift and return their foot"
 end

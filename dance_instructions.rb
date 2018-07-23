@@ -9,7 +9,7 @@ end
 #skip-step
 def skip_step()
   puts "skip a step"
-  puts ""
+  puts "Bounce left foot back up slightly, kicking it a few inches back"
 end
 
 #Upper-body
